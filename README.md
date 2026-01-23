@@ -62,3 +62,4 @@ This Dashboards make business monitoring faster, more accurate, and actionable.T
 
 # 6) Screenshot For Demo
 the dashboard looks like :[https://github.com/zeeshanattar/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png]
+
