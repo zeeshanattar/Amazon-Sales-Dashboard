@@ -61,4 +61,4 @@ The purpose of a Cities by Sales treemap is to visually compare sales across cit
 This Dashboards make business monitoring faster, more accurate, and actionable.They reveal trends, opportunities, and problems that help optimize sales, profit, and operations.
 
 # 6) Screenshot For Demo
-the dashboard looks like :
+the dashboard looks like :[https://github.com/zeeshanattar/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png]
